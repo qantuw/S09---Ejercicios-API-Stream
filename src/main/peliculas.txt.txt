@@ -1,0 +1,2 @@
+1,Pulp Fiction,1994,9.0,Drama;Comedia,Quentin Tarantino
+2,Schindler's List,1993,9.0,Drama,Steven Spielberg

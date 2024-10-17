@@ -1,0 +1,5 @@
+MX,México,América,1964375.0,1,128932753
+JP,Japón,Asia,377975.0,2,125960000
+GB,Reino Unido,Europa,242495.0,3,67886011
+NG,Nigeria,África,923769.0,4,206139587
+AU,Australia,Oceania,7692024.0,5,25687041
