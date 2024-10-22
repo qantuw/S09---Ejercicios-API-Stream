@@ -1,2 +1,0 @@
-1,Quentin Tarantino,Pulp Fiction;Django
-2,Steven Spielberg,Schindler's List;Jurassic Park
